@@ -35,5 +35,3 @@
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuantransn2001&layout=compact&theme=radical" alt=tuantransn2001 />
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tuantransn2001&theme=radical" alt="tuantransn2001" /></p>
