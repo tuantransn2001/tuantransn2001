@@ -1,4 +1,6 @@
-<h1 align="center">Hi , I'm Tuan 👋 ! </h1>
+<h1 align="left">Hi , I'm Tuan 👋 ! </h1>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 - 🌱 I'm currently working as Backend Developer 🧑🏼‍💻 at HCMC.
 
@@ -33,3 +35,13 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
+## 📈 Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=tuantransn2001&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tuantransn2001&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuantransn2001&theme=tokyonight&layout=compact&langs_count=6">
+
+
+## ✨ Project Showcase
+* [Lenleys Clone](https://next-js-e-commerce-fe.vercel.app) - Fullstack E-Commerce website with idea come from lenleys team [FE-Repo](https://github.com/tuantransn2001/eCommerce-frontend) [BE-Repo](https://github.com/tuantransn2001/eCommerce-backend)
+* [MyOwnChat](https://chat-graph-ql-frontend.vercel.app) - Fullstack Realtime Chatapp [FE-Repo](https://github.com/tuantransn2001/chat-graphQL-frontend) [BE-Repo](https://github.com/tuantransn2001/chat-graphQL-backend) 
