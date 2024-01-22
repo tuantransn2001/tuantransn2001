@@ -36,10 +36,7 @@
 </p>
 
 ## 📈 Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=tuantransn2001&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tuantransn2001&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuantransn2001&theme=tokyonight&layout=compact&langs_count=6">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tuantransn2001&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 ## ✨ Project Showcase
