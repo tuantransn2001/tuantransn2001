@@ -41,4 +41,4 @@
 
 ## ✨ Project Showcase
 * [Lenleys Clone](https://next-js-e-commerce-fe.vercel.app) - Fullstack E-Commerce website with idea come from lenleys team [FE-Repo](https://github.com/tuantransn2001/eCommerce-frontend) [BE-Repo](https://github.com/tuantransn2001/eCommerce-backend)
-* [MyOwnChat](https://chat-graph-ql-frontend.vercel.app) - Fullstack Realtime Chatapp [FE-Repo](https://github.com/tuantransn2001/chat-graphQL-frontend) [BE-Repo](https://github.com/tuantransn2001/chat-graphQL-backend) 
+* [My Own Chat](https://chat-graph-ql-frontend.vercel.app) - Fullstack Realtime Chatapp [FE-Repo](https://github.com/tuantransn2001/chat-graphQL-frontend) [BE-Repo](https://github.com/tuantransn2001/chat-graphQL-backend) 
