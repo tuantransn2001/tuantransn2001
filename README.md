@@ -41,4 +41,7 @@
 
 ## ✨ Project Showcase
 * [Lenleys Clone](https://next-js-e-commerce-fe.vercel.app) - Fullstack E-Commerce website with idea come from lenleys team [FE-Repo](https://github.com/tuantransn2001/eCommerce-frontend) [BE-Repo](https://github.com/tuantransn2001/eCommerce-backend)
-* [My Own Chat](https://chat-graph-ql-frontend.vercel.app) - Fullstack Realtime Chatapp [FE-Repo](https://github.com/tuantransn2001/chat-graphQL-frontend) [BE-Repo](https://github.com/tuantransn2001/chat-graphQL-backend) 
+* [My Own Chat](https://chat-graph-ql-frontend.vercel.app) - Fullstack Realtime Chatapp [FE-Repo](https://github.com/tuantransn2001/chat-graphQL-frontend) [BE-Repo](https://github.com/tuantransn2001/chat-graphQL-backend)
+* [NestJs-Websocket](https://github.com/tuantransn2001/websocket) - This is a boilerplate project for NestJS, featuring an implementation of WebSockets for real-time communication.
+* [NestJs-GraphQL](https://github.com/tuantransn2001/nestjs-graphql) - This is a boilerplate project for NestJS, featuring an implementation of GraphQL for efficient and flexible data querying.
+* [ERP-API](https://github.com/tuantransn2001/erp-api) - This is a ny side project for an ERP (Enterprise Resource Planning) system API, built with Express.js.
