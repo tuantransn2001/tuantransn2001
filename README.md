@@ -44,4 +44,4 @@
 * [My Own Chat](https://chat-graph-ql-frontend.vercel.app) - Fullstack Realtime Chatapp [FE-Repo](https://github.com/tuantransn2001/chat-graphQL-frontend) [BE-Repo](https://github.com/tuantransn2001/chat-graphQL-backend)
 * [NestJs-Websocket](https://github.com/tuantransn2001/websocket) - This is a boilerplate project for NestJS, featuring an implementation of WebSockets for real-time communication.
 * [NestJs-GraphQL](https://github.com/tuantransn2001/nestjs-graphql) - This is a boilerplate project for NestJS, featuring an implementation of GraphQL for efficient and flexible data querying.
-* [ERP-API](https://github.com/tuantransn2001/erp-api) - This is a ny side project for an ERP (Enterprise Resource Planning) system API, built with Express.js.
+* [ERP-API](https://github.com/tuantransn2001/erp-api) - This is a my side project for an ERP (Enterprise Resource Planning) system API, built with Express.js.
