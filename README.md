@@ -45,3 +45,4 @@
 * [NestJs-Websocket](https://github.com/tuantransn2001/websocket) - This is a boilerplate project for NestJS, featuring an implementation of WebSockets for real-time communication.
 * [NestJs-GraphQL](https://github.com/tuantransn2001/nestjs-graphql) - This is a boilerplate project for NestJS, featuring an implementation of GraphQL for efficient and flexible data querying.
 * [ERP-API](https://github.com/tuantransn2001/erp-api) - This is a my side project for an ERP (Enterprise Resource Planning) system API, built with Express.js.
+* [Music player](https://tuantransn2001.github.io/ZingMp3.github.io) - I'm thrilled to present my latest project, a responsive and user-friendly Music Player built from scratch using HTML, CSS, and Vanilla JavaScript, featuring play/pause functionality, track progression, playlist support, and volume control.
