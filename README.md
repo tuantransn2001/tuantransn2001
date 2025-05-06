@@ -12,7 +12,9 @@
 <div> 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tuantransn2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="tuantransn2001" height="30" width="40" /></a><a href="https://fb.com/tuantrn.inf" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="tuantrn.inf" height="30" width="40" /></a><a href="https://instagram.com/tuantrn.inf" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="tuantrn.inf" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/tuantransn2001" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="tuantransn2001" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -36,13 +38,14 @@
 </p>
 
 ## 📈 Github Stats
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tuantransn2001&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
 ## ✨ Project Showcase
-* [Lenleys Clone](https://next-js-e-commerce-fe.vercel.app) - Fullstack E-Commerce website with idea come from lenleys team [FE-Repo](https://github.com/tuantransn2001/eCommerce-frontend) [BE-Repo](https://github.com/tuantransn2001/eCommerce-backend)
-* [My Own Chat](https://chat-graph-ql-frontend.vercel.app) - Fullstack Realtime Chatapp [FE-Repo](https://github.com/tuantransn2001/chat-graphQL-frontend) [BE-Repo](https://github.com/tuantransn2001/chat-graphQL-backend)
-* [NestJs-Websocket](https://github.com/tuantransn2001/websocket) - This is a boilerplate project for NestJS, featuring an implementation of WebSockets for real-time communication.
-* [NestJs-GraphQL](https://github.com/tuantransn2001/nestjs-graphql) - This is a boilerplate project for NestJS, featuring an implementation of GraphQL for efficient and flexible data querying.
-* [ERP-API](https://github.com/tuantransn2001/erp-api) - This is a my side project for an ERP (Enterprise Resource Planning) system API, built with Express.js.
-* [Music player](https://tuantransn2001.github.io/ZingMp3.github.io) - I'm thrilled to present my project, a responsive and user-friendly Music Player built from scratch using HTML, CSS, and Vanilla JavaScript, featuring play/pause functionality, track progression, playlist support, and volume control.
+
+- [Lenleys Clone](https://next-js-e-commerce-fe.vercel.app) - Fullstack E-Commerce website with idea come from lenleys team [FE-Repo](https://github.com/tuantransn2001/eCommerce-frontend) [BE-Repo](https://github.com/tuantransn2001/eCommerce-backend)
+- [My Own Chat](https://chat-graph-ql-frontend.vercel.app) - Fullstack Realtime Chatapp [FE-Repo](https://github.com/tuantransn2001/chat-graphQL-frontend) [BE-Repo](https://github.com/tuantransn2001/chat-graphQL-backend)
+- [NestJs-Websocket](https://github.com/tuantransn2001/websocket) - This is a boilerplate project for NestJS, featuring an implementation of WebSockets for real-time communication.
+- [NestJs-GraphQL](https://github.com/tuantransn2001/nestjs-graphql) - This is a boilerplate project for NestJS, featuring an implementation of GraphQL for efficient and flexible data querying.
+- [ERP-API](https://github.com/tuantransn2001/erp-api) - This is a my side project for an ERP (Enterprise Resource Planning) system API, built with Express.js.
+- [Music player](https://tuantransn2001.github.io/ZingMp3.github.io) - I'm thrilled to present my project, a responsive and user-friendly Music Player built from scratch using HTML, CSS, and Vanilla JavaScript, featuring play/pause functionality, track progression, playlist support, and volume control.
