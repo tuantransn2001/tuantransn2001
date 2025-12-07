@@ -1,7 +1,5 @@
 <h1 align="left">Hi , I'm Tuan 👋 ! </h1>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 - 🌱 I'm currently working as Backend Developer 🧑🏼‍💻 at HCMC.
 
 - 👯 Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
