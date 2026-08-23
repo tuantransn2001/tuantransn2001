@@ -35,12 +35,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-## 📈 Github Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tuantransn2001&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ## ✨ Project Showcase
 
-- [My Own Chat](https://chat-graph-ql-frontend.vercel.app) - Fullstack Realtime Chatapp [FE-Repo](https://github.com/tuantransn2001/chat-graphQL-frontend) [BE-Repo](https://github.com/tuantransn2001/chat-graphQL-backend)
 - [NestJs-Websocket](https://github.com/tuantransn2001/websocket) - This is a boilerplate project for NestJS, featuring an implementation of WebSockets for real-time communication.
 - [NestJs-GraphQL](https://github.com/tuantransn2001/nestjs-graphql) - This is a boilerplate project for NestJS, featuring an implementation of GraphQL for efficient and flexible data querying.
