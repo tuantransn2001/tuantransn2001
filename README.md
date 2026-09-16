@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Tuan 👋</h1>
 
-* 🌱 I'm currently working as a Backend Developer 🧑🏼‍💻 in HCMC.
+* 🌱 I'm currently working as a Software Developer 🧑🏼‍💻 in HCMC.
 
 * 🛠️ I enjoy turning ideas into real products and continuously improving them through user feedback.
 
