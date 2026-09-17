@@ -8,7 +8,7 @@
 
 * 🚀 Currently building:
 
-  * <img src="https://knoveya.com/folderloom/assets/folder-tree.svg" width="22" height="22" align="center" /> [**Folderloom**](https://knoveya.com/folderloom) — A Chrome extension for organizing conversations across **ChatGPT, Claude, and Gemini** with folders, nested folders, and bookmarks.
+  * <img src="https://knoveya.com/folderloom/assets/folder-tree.svg" width="22" height="22" align="center" /> [**Folderloom**](https://knoveya.com/folderloom) — A Chrome extension for organizing conversations across **ChatGPT, Claude, and Gemini** with folders, nested folders, and bookmarks and searchable.
 
   * <img src="https://knoveya.com/captionplus/social/facebook-avatar-youtube-v3.png" width="22" height="22" align="center" /> [**CaptionPlus**](https://knoveya.com/captionplus) — A **YouTube-focused** tool for creating better, more useful captions and improving the video-watching experience.
 
