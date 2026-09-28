@@ -1,15 +1,15 @@
 <h1 align="left">Hi, I'm Tuan 👋</h1>
 
-* 🌱 I'm currently working as a Software Developer 🧑🏼‍💻 in HCMC.
+- 🧑🏼‍💻 Software Developer based in Ho Chi Minh City.
+- 🚢 I like building products end-to-end — from the first idea and implementation to shipping, user feedback, and iteration.
+- 🔨 Currently building small, practical products at [**Knoveya**](https://knoveya.com/).
 
-* 🛠️ I enjoy turning ideas into real products and continuously improving them through user feedback.
+### 🚀 Products I'm building
 
-* 🤝 I’m passionate about Software Engineering and building practical products that solve everyday problems.
+- <img src="https://knoveya.com/folderloom/assets/folder-tree.svg" width="22" height="22" align="center" /> [**Folderloom**](https://knoveya.com/folderloom) — An AI workspace for **ChatGPT, Claude, and Gemini**. Organize conversations with folders, nested folders, bookmarks, drag & drop, and search. Also expanding into prompt management with reusable templates, variables, and cross-AI workflows.
 
-* 🚀 Currently building:
+- <img src="https://knoveya.com/vglot/social/facebook-avatar-youtube-v3.png" width="22" height="22" align="center" /> [**VGLOT**](https://knoveya.com/vglot) — A YouTube companion for understanding videos in your language with **real-time AI captions and translation**, built for tutorials, courses, podcasts, interviews, and long-form content.
 
-  * <img src="https://knoveya.com/folderloom/assets/folder-tree.svg" width="22" height="22" align="center" /> [**Folderloom**](https://knoveya.com/folderloom) — A Chrome extension for organizing conversations across **ChatGPT, Claude, and Gemini** with folders, nested folders, and bookmarks and searchable.
+### 📫 Let's connect
 
-  * <img src="https://knoveya.com/captionplus/social/facebook-avatar-youtube-v3.png" width="22" height="22" align="center" /> [**CaptionPlus**](https://knoveya.com/captionplus) — A **YouTube-focused** tool for creating better, more useful captions and improving the video-watching experience.
-
-* 📫 You can reach me on [**LinkedIn**](https://www.linkedin.com/in/tuantransn2001)
+[**LinkedIn**](https://www.linkedin.com/in/tuantransn2001)
